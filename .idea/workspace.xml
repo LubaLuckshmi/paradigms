@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f78ddc-1c3e-40a7-af30-07dd1c243bce" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/seminar2/Task1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/seminar2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1Hw/DeclarativeSortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1Hw/Main.java" afterDir="false" />
+>>>>>>> 666ab4c00202a626777e9a61a943b81a237bbea9
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2YXQjI61UOuvXgotMkWZVXWr011" />
@@ -30,6 +40,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -44,6 +55,23 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Task2">
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ImperativeSortNumbers">
+>>>>>>> 666ab4c00202a626777e9a61a943b81a237bbea9
     <configuration name="DeclarativeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar1.task01.DeclarativeSearch" />
       <module name="paradigms" />
@@ -57,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImperativeStat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminar1.task02.ImperativeStat" />
+    <configuration name="DeclarativeSortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1Hw.DeclarativeSortNumbers" />
       <module name="paradigms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar1.task02.*" />
+          <option name="PATTERN" value="seminar1Hw.ImperativeSortNumbers" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +98,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar1.Search" />
       <module name="paradigms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="seminar1.task01.*" />
+=======
+    <configuration name="ImperativeSortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1Hw.ImperativeSortNumbers" />
+      <module name="paradigms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1Hw.*" />
+>>>>>>> 666ab4c00202a626777e9a61a943b81a237bbea9
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +120,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar2.Task1" />
       <module name="paradigms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="seminar2.*" />
+=======
+    <configuration name="ImperativeStat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1.task02.ImperativeStat" />
+      <module name="paradigms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1.task02.*" />
+>>>>>>> 666ab4c00202a626777e9a61a943b81a237bbea9
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar2.Task2" />
+=======
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1.Search" />
+>>>>>>> 666ab4c00202a626777e9a61a943b81a237bbea9
       <module name="paradigms" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +162,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
+=======
+        <item itemvalue="Application.ImperativeSortNumbers" />
+        <item itemvalue="Application.DeclarativeSortNumbers" />
+>>>>>>> 666ab4c00202a626777e9a61a943b81a237bbea9
         <item itemvalue="Application.ImperativeStat" />
         <item itemvalue="Application.DeclarativeSearch" />
         <item itemvalue="Application.Search" />
@@ -127,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700669578029</updated>
-      <workItem from="1700669579074" duration="3243000" />
+      <workItem from="1700669579074" duration="4076000" />
     </task>
     <servers />
   </component>
