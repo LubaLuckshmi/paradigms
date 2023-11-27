@@ -1,6 +1,6 @@
 package seminar2;
 
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         int[][] matrix = {
                 {1, 2, 3},
