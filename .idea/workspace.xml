@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f78ddc-1c3e-40a7-af30-07dd1c243bce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task01/DeclarativeSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task01/ImperativeSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task02/DeclarativeStat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task02/ImperativeStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1Hw/DeclarativeSortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1Hw/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2YXQjI61UOuvXgotMkWZVXWr011" />
@@ -48,16 +44,43 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ImperativeStat">
+  <component name="RunManager" selected="Application.ImperativeSortNumbers">
     <configuration name="DeclarativeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar1.task01.DeclarativeSearch" />
       <module name="paradigms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="seminar1.task01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeclarativeSortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1Hw.DeclarativeSortNumbers" />
+      <module name="paradigms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1Hw.ImperativeSortNumbers" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImperativeSortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1Hw.ImperativeSortNumbers" />
+      <module name="paradigms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1Hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,13 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="paradigms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar1.Search" />
       <module name="paradigms" />
@@ -98,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminar1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminar1.Main" />
-      <module name="paradigms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminar1.task01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImperativeSortNumbers" />
+        <item itemvalue="Application.DeclarativeSortNumbers" />
         <item itemvalue="Application.ImperativeStat" />
         <item itemvalue="Application.DeclarativeSearch" />
         <item itemvalue="Application.Search" />
-        <item itemvalue="Application.seminar1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700669578029</updated>
-      <workItem from="1700669579074" duration="3243000" />
+      <workItem from="1700669579074" duration="4076000" />
     </task>
     <servers />
   </component>
