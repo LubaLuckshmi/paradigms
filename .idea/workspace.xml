@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f78ddc-1c3e-40a7-af30-07dd1c243bce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar4/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar4/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar4/task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar4Hw/PearsonCorrelation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar4/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="seminar2Hw" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.seminar4.task3.Main">
+  <component name="RunManager" selected="Application.PearsonCorrelation">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar4.task1.Main" />
       <module name="paradigms" />
@@ -77,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminar2.Task2" />
+    <configuration name="PearsonCorrelation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar4Hw.PearsonCorrelation" />
       <module name="paradigms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar2.*" />
+          <option name="PATTERN" value="seminar4Hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PearsonCorrelation" />
         <item itemvalue="Application.seminar4.task3.Main" />
         <item itemvalue="Application.seminar4.task2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
